@@ -1,0 +1,37 @@
+# Friends of Shopware
+
+FriendsOfShopware is a group of developers who have banded together to build solid, well tested Shopware Plugins using modern coding standards.
+
+# How do I get in touch?
+Several of us hang out in shopware gitter channel. We've also got our own gitter channel. Finally if you want to ask for a vote (for example to propose a new topic/plugin) create a issue on the https://github.com/FriendsOfShopware/friendsofshopware.github.com repo
+
+# Rules
+
+* Import all classes
+* Adhere to PSR-2 as the coding style guide.
+* List on Packagist with **Frosh** as the vendor namespace.
+* Write unit tests. Aim for at least 80% coverage
+* DocBlock for all the things
+* Use Semantic Versioning to manage version numbers.
+* Keep a Changelog.md and an entry in plugin.xml
+* Use Travis-CI to automatically check coding standards and run tests.
+* Have an extensive README.
+* Exclude non-essential files in .gitattributes. 
+* Plugin should have a benefit for the community
+* Plugin name must start with Frosh
+* Obvious stuff can be committed without review
+* Non obvious stuff should try to get review from at least one more member
+* Git-Workflow: https://guides.github.com/introduction/flow/
+
+# I want to join!
+Generally we are open to anyone joining if there is enough overlap in interest with the other members. The point is to enable collaboration among most of the members.
+If there isn’t enough overlap with the existing members, just create a new vendor namespace and invite others to join.
+We also want to keep the number of members somewhat manageable to make it easy to keep everyone in the loop so that there is no need to have complex organizational structures.
+
+# Projects
+
+| Project     | Description                                                | Project Lead                 |
+|-------------|------------------------------------------------------------|------------------------------|
+| Codeception | Codeception Testsuite for default Responsive Theme         | Tim Windelschmidt (@fionera) |
+| Profiler    | Symfony Profiler ported to Shopware with custom collectors | Soner Sayakci (@shyim)       |
+| Grafana     | Track your shopware and server statistics within Grafana   | Kai Neuwerth(@Crease29)      |
