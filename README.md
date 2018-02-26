@@ -3,12 +3,12 @@
 FriendsOfShopware is a group of developers who have banded together to build solid, well tested Shopware Plugins using modern coding standards.
 
 # How do I get in touch?
-Several of us hang out in [Shopware's gitter channel](https://gitter.im/shopware/shopware). We also have our own gitter channel. Finally if you want to ask for a vote (for example to propose a new topic/plugin) create a issue in our [repository](https://github.com/FriendsOfShopware/friendsofshopware.github.com).
+Several of us hang out in [Shopware's gitter channel](https://gitter.im/shopware/shopware). We also have our [own gitter channel](https://gitter.im/FriendsOfShopware/Lobby). Finally if you want to ask for a vote (for example to propose a new topic/plugin) create a issue in our [repository](https://github.com/FriendsOfShopware/friendsofshopware.github.com).
 
 # Rules
 
 * Import all classes
-* Adhere to PSR-2 as the coding style guide.
+* See .php_cs.dist for Codestyle
 * List on Packagist with **Frosh** as the vendor namespace.
 * Write unit tests. Aim for at least 80% coverage
 * DocBlock for all the things
