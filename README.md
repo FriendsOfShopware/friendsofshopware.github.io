@@ -8,7 +8,7 @@ Several of us hang out in [Shopware's gitter channel](https://gitter.im/shopware
 # Rules
 
 * Import all classes
-* See .php_cs.dist for Codestyle
+* See .php_cs.dist for Codestyle and max PHP 7.0 due limitations from shopware
 * List on Packagist with **Frosh** as the vendor namespace.
 * Write unit tests. Aim for at least 80% coverage
 * DocBlock for all the things
