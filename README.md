@@ -35,4 +35,4 @@ We also want to keep the number of members somewhat manageable to make it easy t
 | [Codeception](https://github.com/FriendsOfShopware/FroshCodeCeptionTests) | Codeception Testsuite for default Responsive Theme         | Tim Windelschmidt ([@fionera](https://github.com/fionera)) |
 | [Profiler](https://github.com/FriendsOfShopware/FroshProfiler)    | Symfony Profiler ported to Shopware with custom collectors | Soner Sayakci ([@shyim](https://github.com/shyim))       |
 | [Grafana](https://github.com/FriendsOfShopware/FroshGrafana)     | Track your shopware and server statistics within Grafana   | Kai Neuwerth ([@Crease29](https://github.com/Crease29))      |
-| [TemplateMail](https://github.com/FriendsOfShopware/FroshGrafana)     | Store mail templates in theme   | Soner Sayakci ([@shyim](https://github.com/shyim))      |
+| [TemplateMail](https://github.com/FriendsOfShopware/FroshTemplateMail)     | Store mail templates in theme   | Soner Sayakci ([@shyim](https://github.com/shyim))      |
