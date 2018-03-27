@@ -5,28 +5,27 @@ FriendsOfShopware is a group of developers who have banded together to build sol
 # How do I get in touch?
 Several of us hang out in [Shopware's gitter channel](https://gitter.im/shopware/shopware). We also have our [own gitter channel](https://gitter.im/FriendsOfShopware/Lobby). Finally if you want to ask for a vote (for example to propose a new topic/plugin) create a issue in our [repository](https://github.com/FriendsOfShopware/friendsofshopware.github.com).
 
-# Rules
-
-* Import all classes
-* See .php_cs.dist for Codestyle and max PHP 7.0 due limitations from shopware
-* List on Packagist with **Frosh** as the vendor namespace.
-* Write unit tests. Aim for at least 80% coverage
-* DocBlock for all the things
+# Rules for plugin contributions
+* Your plugin must support the latest version of Shopware.
+* List on Packagist with Frosh as the vendor namespace.
 * Use [Semantic Versioning](https://semver.org/) to manage version numbers.
-* Keep a Changelog.md and an entry in `plugin.xml`
-* Use Travis-CI to automatically check coding standards and run tests.
-* Have an extensive `README.md`.
-* Exclude non-essential files in `.gitattributes`. 
-* Plugin should have a benefit for the community
-* Plugin name must start with "Frosh"
-* Obvious stuff can be committed without review
-* Non obvious stuff should try to get review from at least one more member
-* Git-Workflow: https://guides.github.com/introduction/flow/
+* Maintain a CHANGELOG.md and also maintain the changelogs in the plugin.xml.
+* Use Travis-CI to automatically run tests and bundle plugins as zip files so that they can be downloaded and uploaded in the Shopware backend.
+* Have an extensive README.md.
+* Your plugin name must start with "Frosh" and the repository must be owned by the Friends of Shopware organization.
+* The repository license must be MIT.
+* Your plugin must be well documented with DocBlocks.
 
-# I want to join!
-Generally we are open to anyone joining if there is enough overlap in interest with the other members. The point is to enable collaboration among most of the members.
-If there isn’t enough overlap with the existing members, just create a new vendor namespace and invite others to join.
-We also want to keep the number of members somewhat manageable to make it easy to keep everyone in the loop so that there is no need to have complex organizational structures.
+# Code Review Workflow
+* We have one main maintainer per project.
+* Reviews will be taken by a frosh member, which is not in conjunction with the project
+  * Pull Requests will be posted to a special channel on gitter (FriendsOfShopware/pullrequests)
+  * Frosh members which have time can pick a pull request to review
+  * At least one approve must be given by a frosh member, before a pull request can be merged
+* Obvious stuff can be committed without review (Example: Typo fixes)
+
+# How to become a member?
+All maintainers of a project are automatically in the Friends of Shopware group. 
 
 # Projects
 
