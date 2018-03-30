@@ -35,3 +35,4 @@ All maintainers of a project are automatically in the Friends of Shopware group.
 | [Profiler](https://github.com/FriendsOfShopware/FroshProfiler)    | Symfony Profiler ported to Shopware with custom collectors | Soner Sayakci ([@shyim](https://github.com/shyim))       |
 | [Grafana](https://github.com/FriendsOfShopware/FroshGrafana)     | Track your shopware and server statistics within Grafana   | Kai Neuwerth ([@Crease29](https://github.com/Crease29))      |
 | [TemplateMail](https://github.com/FriendsOfShopware/FroshTemplateMail)     | Store mail templates in theme   | Soner Sayakci ([@shyim](https://github.com/shyim))      |
+| [Adminer](https://github.com/FriendsOfShopware/FroshAdminer)     | Adminer for Shopware  | Soner Sayakci ([@shyim](https://github.com/shyim))      |
