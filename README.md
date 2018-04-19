@@ -36,5 +36,5 @@ All maintainers of a project are automatically in the Friends of Shopware group.
 | [Grafana](https://github.com/FriendsOfShopware/FroshGrafana)     | Track your shopware and server statistics within Grafana   | Kai Neuwerth ([@Crease29](https://github.com/Crease29))      |
 | [TemplateMail](https://github.com/FriendsOfShopware/FroshTemplateMail)     | Store mail templates in theme   | Soner Sayakci ([@shyim](https://github.com/shyim))      |
 | [Adminer](https://github.com/FriendsOfShopware/FroshAdminer)     | Adminer for Shopware  | Soner Sayakci ([@shyim](https://github.com/shyim))      |
-| [FroshViewSnapshots](https://github.com/FriendsOfShopware/FroshViewSnapshots)     | Record or Log views  | David Neustadt ([@dneustadt](https://github.com/dneustadt))      |
-| [FroshVariantSwitch](https://github.com/FriendsOfShopware/FroshVariantSwitch)     | Shopware plugin to switch variants in basket and checkout views  | David Neustadt ([@dneustadt](https://github.com/dneustadt))      |
+| [ViewSnapshots](https://github.com/FriendsOfShopware/FroshViewSnapshots)     | Record or Log views  | David Neustadt ([@dneustadt](https://github.com/dneustadt))      |
+| [VariantSwitch](https://github.com/FriendsOfShopware/FroshVariantSwitch)     | Shopware plugin to switch variants in basket and checkout views  | David Neustadt ([@dneustadt](https://github.com/dneustadt))      |
