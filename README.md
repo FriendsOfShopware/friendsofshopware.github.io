@@ -19,7 +19,7 @@ That doesn't mean that you have to provide an own plugin.
 Contributing to our existing plugins is also very important and we are always glad to find new developers for our exciting projects.
 
 If you do want to contribute your own plugins, please be aware that we won't guarantee admission before you provide at least a functional prototype.
-The important thing is that you are convinced by your idea and you should be developing solely for this occasion.
+The important thing is that **you** are convinced by your idea and you should be developing solely for this occasion.
 
 
 # Code Review Workflow
