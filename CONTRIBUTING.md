@@ -6,6 +6,7 @@ Even the smallest pull request is important! :muscle:
 
 So if you have any suggestions or questions, feel very free to [get in touch with us](https://gitter.im/FriendsOfShopware/Lobby)!
 
+
 ## Rules for *new* plugin contributions
 
 If you have a plugin that could be useful for other users/developers and you want to publish it as a member of Friends of Shopware, please also [join our Gitter channel](https://gitter.im/FriendsOfShopware/Lobby).
