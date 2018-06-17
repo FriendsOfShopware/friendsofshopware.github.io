@@ -42,3 +42,4 @@ The important thing is that **you** are convinced by your idea and you should be
 | [FroshAdminer](https://github.com/FriendsOfShopware/FroshAdminer) | Adminer for Shopware  | Soner Sayakci ([@shyim](https://github.com/shyim)) |
 | [FroshViewSnapshots](https://github.com/FriendsOfShopware/FroshViewSnapshots) | Record or Log views | David Neustadt ([@dneustadt](https://github.com/dneustadt)) |
 | [FroshVariantSwitch](https://github.com/FriendsOfShopware/FroshVariantSwitch) | Shopware plugin to switch variants in basket and checkout views | David Neustadt ([@dneustadt](https://github.com/dneustadt)) |
+| [FroshMailCatcher](https://github.com/FriendsOfShopware/FroshMailCatcher) | Simple mailcatcher integrated in Shopware | Soner Sayakci ([@shyim](https://github.com/shyim)) |
