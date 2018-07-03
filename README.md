@@ -44,3 +44,4 @@ The important thing is that **you** are convinced by your idea and you should be
 | [FroshVariantSwitch](https://github.com/FriendsOfShopware/FroshVariantSwitch) | Shopware plugin to switch variants in basket and checkout views | David Neustadt ([@dneustadt](https://github.com/dneustadt)) |
 | [FroshMailCatcher](https://github.com/FriendsOfShopware/FroshMailCatcher) | Simple mailcatcher integrated in Shopware | Soner Sayakci ([@shyim](https://github.com/shyim)) |
 | [FroshSimultaneousEditNotification](https://github.com/FriendsOfShopware/FroshSimultaneousEditNotification) | Backend Notification when multiple users working parallel | Soner Sayakci ([@shyim](https://github.com/shyim)) |
+| [FroshMaintenance](https://github.com/FriendsOfShopware/FroshMaintenance) | Collection of tools for Shop Maintenance | David Neustadt ([@dneustadt](https://github.com/dneustadt)) Alexander Wolf ([@eemzet](https://github.com/eemzet)) |
