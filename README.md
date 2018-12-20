@@ -47,3 +47,4 @@ The important thing is that **you** are convinced by your idea and you should be
 | [FroshMaintenance](https://github.com/FriendsOfShopware/FroshMaintenance) | Collection of tools for Shop Maintenance | David Neustadt ([@dneustadt](https://github.com/dneustadt)) Alexander Wolf ([@eemzet](https://github.com/eemzet)) |
 | [FroshPerformance](https://github.com/FriendsOfShopware/FroshPerformance) | Collection of performance improvements | Soner Sayakci ([@shyim](https://github.com/shyim)) Sidi Benmoh ([@sbenmoh](https://github.com/sbenmoh)) |
 | [FroshIonCubeChecker](https://github.com/FriendsOfShopware/FroshIonCubeChecker) | IonCube check for Shopware plugins | Lars Schröder ([@larsbo](https://github.com/larsbo)) |
+| [FroshWebP](https://github.com/FriendsOfShopware/FroshWebP) | WebP Support in Shopware | Soner Sayakci ([@shyim](https://github.com/shyim)) |
