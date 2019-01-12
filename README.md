@@ -48,3 +48,4 @@ The important thing is that **you** are convinced by your idea and you should be
 | [FroshPerformance](https://github.com/FriendsOfShopware/FroshPerformance) | Collection of performance improvements | Soner Sayakci ([@shyim](https://github.com/shyim)) Sidi Benmoh ([@sbenmoh](https://github.com/sbenmoh)) |
 | [FroshIonCubeChecker](https://github.com/FriendsOfShopware/FroshIonCubeChecker) | IonCube check for Shopware plugins | Lars Schröder ([@larsbo](https://github.com/larsbo)) |
 | [FroshWebP](https://github.com/FriendsOfShopware/FroshWebP) | WebP Support in Shopware | Soner Sayakci ([@shyim](https://github.com/shyim)) |
+| [FroshMailArchive](https://github.com/FriendsOfShopware/FroshMailArchive) | Simple MailArchive for Shopware | Sebastian König ([@tinect](https://github.com/tinect)) |
